@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.newlab1.app-mergeDebugResources-30:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.newlab1.app-main-33:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.newlab1.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.0\\com.example.newlab1.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.newlab1.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.newlab1.app-main-33:/layout/activity_main.xml"
+    }
+]
